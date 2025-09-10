@@ -22,14 +22,14 @@ function WorkPage() {
         <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality</p>
       </a>
       <a href="https://youtu.be/VK04pqnw0_c?si=9qHWw8hdvCd_3Vbh" target="_blank" rel="noopener noreferrer">
-        <img src="/Thumbnail/The_Poly_Post_-_Bronco_Esports_Documentary_Ep._2_VALORANT.png" alt="Image 5" className="thumbnail-image" />
-        <p className="video-title">How a University Stays Relevant in One of the Biggest Esports</p>
-        <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality</p>
-      </a>
-      <a href="https://youtu.be/VK04pqnw0_c?si=9qHWw8hdvCd_3Vbh" target="_blank" rel="noopener noreferrer">
-        <img src="Thumbnail\Usal_-_Central_Park_Community_Climb.png" alt="Image 6" className="thumbnail-image" />
+        <img src="Thumbnail\Usal_-_Central_Park_Community_Climb.png" alt="Image 5" className="thumbnail-image" />
         <p className="video-title">Usal - Central Park Community Climb</p>
         <p className="responsibility-text">Responsibilities: Editing</p>
+      </a>
+      <a href="https://youtu.be/VK04pqnw0_c?si=9qHWw8hdvCd_3Vbh" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail/The_Poly_Post_-_Bronco_Esports_Documentary_Ep._2_VALORANT.png" alt="Image 6" className="thumbnail-image" />
+        <p className="video-title">How a University Stays Relevant in One of the Biggest Esports</p>
+        <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality</p>
       </a>
       <a href="https://youtu.be/pJozfFshwpU?si=RTC-6d5ZygH6xG_j" target="_blank" rel="noopener noreferrer">
         <img src="/Thumbnail/The_Poly_Post_-_Bronco_Esports_Documentary_Ep._3_Organization_President.png" alt="Image 7" className="thumbnail-image" />
