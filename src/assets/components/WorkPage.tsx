@@ -6,10 +6,10 @@ function WorkPage() {
         <p className="video-title">emotions in video games</p>
         <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality</p>
       </a>
-      <a href="https://www.instagram.com/reel/DNoaPaOyYSt/?igsh=MTg1endrd2tibXh6dw==" target="_blank" rel="noopener noreferrer">
-      <img src="/Thumbnail/Usal_x_Gorp_Girls_-_Hiking_Reel_v2.png" alt="Image 2" className="thumbnail-image" />
-        <p className="video-title">Usal X Gorp Girls</p>
-        <p className="responsibility-text">Responsibilities: Editing</p>
+       <a href="https://www.instagram.com/reel/DQXDQ6-j7JA/" target="_blank" rel="noopener noreferrer">
+      <img src="/Thumbnail/dfgjdgjfdt6yik.png" alt="Image 2" className="thumbnail-image" />
+        <p className="video-title">Usal X Tame Impala - Earth Sweeps</p>
+        <p className="responsibility-text">Responsibilities: Editing, Color Grading</p>
       </a>
       <a href="https://youtu.be/ZnWIXqwIt0U?si=StqQJvsA7cwnfY0n" target="_blank" rel="noopener noreferrer">
         <img src="/Thumbnail/The_Poly_Post_-_Bronco_Esports_Documentary_Ep._1_Melee.png" alt="Image 3" className="thumbnail-image" />
@@ -20,6 +20,11 @@ function WorkPage() {
         <img src="/Thumbnail/The_Poly_Post_-_Bronco_Fusion_2024_Concert_Coverage_Ft._J.I.D..png" alt="Image 4" className="thumbnail-image" />
         <p className="video-title">J.I.D. Headlines Bronco Fusion 2024</p>
         <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality</p>
+      </a>
+      <a href="https://www.instagram.com/reel/DNoaPaOyYSt/?igsh=MTg1endrd2tibXh6dw==" target="_blank" rel="noopener noreferrer">
+      <img src="/Thumbnail/Usal_x_Gorp_Girls_-_Hiking_Reel_v2.png" alt="Image 2" className="thumbnail-image" />
+        <p className="video-title">Usal X Gorp Girls</p>
+        <p className="responsibility-text">Responsibilities: Editing</p>
       </a>
       <a href="https://youtu.be/VK04pqnw0_c?si=9qHWw8hdvCd_3Vbh" target="_blank" rel="noopener noreferrer">
         <img src="Thumbnail\Usal_-_Central_Park_Community_Climb.png" alt="Image 5" className="thumbnail-image" />
