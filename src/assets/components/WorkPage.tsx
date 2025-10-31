@@ -26,6 +26,11 @@ function WorkPage() {
         <p className="video-title">Usal X Gorp Girls</p>
         <p className="responsibility-text">Responsibilities: Editing</p>
       </a>
+      <a href="https://youtu.be/AeDc2BMAiuQ?si=NUSQ4A17GuNgFMiW" target="_blank" rel="noopener noreferrer">
+      <img src="/Thumbnail/Newsroom_Sessions_Raccoon_Cartoons.png" alt="Image 2" className="thumbnail-image" />
+        <p className="video-title">Newsroom Sessions: Raccoon Cartoons</p>
+        <p className="responsibility-text">Responsibilities: Cinematography, Editing, Color Grading</p>
+      </a>
       <a href="https://youtu.be/VK04pqnw0_c?si=9qHWw8hdvCd_3Vbh" target="_blank" rel="noopener noreferrer">
         <img src="Thumbnail\Usal_-_Central_Park_Community_Climb.png" alt="Image 5" className="thumbnail-image" />
         <p className="video-title">Usal - Central Park Community Climb</p>
