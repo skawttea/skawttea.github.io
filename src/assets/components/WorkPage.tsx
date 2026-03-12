@@ -1,9 +1,24 @@
 function WorkPage() {
   return (
     <div className="thumbnail-container">
+      <a href="https://www.instagram.com/p/DUtFUE-kXi7/" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail/Satellite_X_Usal_Store_Rebuild.png" alt="Image 1" className="thumbnail-image" />
+        <p className="video-title">Satellite X Nike ACG Store Rebuild</p>
+        <p className="responsibility-text">Responsibilities: Editing</p>
+      </a>
+      <a href="https://www.instagram.com/reel/DRSNsj8iY42/" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail/Usal_X_Wyntro_Workshop_Promo.png" alt="Image 1" className="thumbnail-image" />
+        <p className="video-title">Usal X Wyntro Workshop Promo</p>
+        <p className="responsibility-text">Responsibilities: Editing, Colorist</p>
+      </a>
+      <a href="https://youtu.be/h8r5i6jE3YM?si=Kj8zu8g3QBpEt3MW" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail/performative_man_3.jpg" alt="Image 1" className="thumbnail-image" />
+        <p className="video-title">The Modern Performative Man is Getting Out of Hand</p>
+        <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality, Color Grading</p>
+      </a>
       <a href="https://www.youtube.com/watch?v=nDMLeo0Qz-w" target="_blank" rel="noopener noreferrer">
         <img src="/Thumbnail/Personal_YouTube_Channel_-_Emotions_in_Video_Games.jpg" alt="Image 1" className="thumbnail-image" />
-        <p className="video-title">emotions in video games</p>
+        <p className="video-title">Emotions in video games</p>
         <p className="responsibility-text">Responsibilities: Writing, Filming, Editing, On-Camera Personality, Color Grading</p>
       </a>
        <a href="https://www.instagram.com/reel/DQXDQ6-j7JA/" target="_blank" rel="noopener noreferrer">
