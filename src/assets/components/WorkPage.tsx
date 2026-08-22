@@ -1,6 +1,21 @@
 function WorkPage() {
   return (
     <div className="thumbnail-container">
+      <a href="https://youtu.be/fVvr0w2jki0?si=tPic6HjuuEYOupJb" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail\dreams_mano.png" alt="Image 1" className="thumbnail-image" />
+        <p className="video-title">zvle - dreams(haunted) (Official Music Video)</p>
+        <p className="responsibility-text">Directing, Cinematography, Editing, Color Grading</p>
+      </a>
+      <a href="https://youtu.be/TyqaRes5-p4?si=B2QloC6jbe7mvCl-" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail/1my.jpeg" alt="Image 1" className="thumbnail-image" />
+        <p className="video-title">zvle - 1MY</p>
+        <p className="responsibility-text">Directing, Cinematography, Editing, Color Grading</p>
+      </a>
+      <a href="https://youtu.be/Looj58uHf6g?si=nDYFbFEAxlkUUE9R" target="_blank" rel="noopener noreferrer">
+        <img src="/Thumbnail\forever_gone.png" alt="Image 1" className="thumbnail-image" />
+        <p className="video-title">zvle - forever gone (feat M4RTOPIA)</p>
+        <p className="responsibility-text">Directing, Cinematography, Editing, Color Grading</p>
+      </a>
       <a href="https://www.instagram.com/reel/DWW0CpJAo-E/" target="_blank" rel="noopener noreferrer">
         <img src="/Thumbnail/Notes_Of_Moss_Event_Recap.png" alt="Image 1" className="thumbnail-image" />
         <p className="video-title">USAL PROJECT - Notes of Moss Event Recap</p>
