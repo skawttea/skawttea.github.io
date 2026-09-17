@@ -3,7 +3,7 @@ function WorkPage() {
     <div className="thumbnail-container">
       <a href="https://www.instagram.com/p/DdFwkJkxxhY/" target="_blank" rel="noopener noreferrer">
         <img src="/Thumbnail\IJustMadeSomeSwag.png" alt="Image 1" className="thumbnail-image" />
-        <p className="video-title">I JUST MADE SOME SWAG? - raised.online</p>
+        <p className="video-title">I JUST MADE SOME SWAG? - raised.online (Unofficial)</p>
         <p className="responsibility-text">Directing, Cinematography, Editing, Color Grading</p>
       </a>
       <a href="https://youtu.be/fVvr0w2jki0?si=tPic6HjuuEYOupJb" target="_blank" rel="noopener noreferrer">
