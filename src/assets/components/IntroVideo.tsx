@@ -1,5 +1,5 @@
 import { useRef, useState } from 'react';
-import videoFile from '/videos/Audio_version.mp4';
+import videoFile from '/videos/UpdateIntroVideoAudio.mp4';
 
 function BackgroundVideo() {
   const [isMuted, setIsMuted] = useState(true);
